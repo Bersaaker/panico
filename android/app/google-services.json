@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "622230474242",
+    "firebase_url": "https://panico-ee295-default-rtdb.firebaseio.com",
+    "project_id": "panico-ee295",
+    "storage_bucket": "panico-ee295.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622230474242:android:4629d7ad96340fd4cea11b",
+        "android_client_info": {
+          "package_name": "com.example.panic_button_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622230474242-ilp7fgjs370fsb38195775gni8oktmpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5h8115dEyaJGDqZCvH8uUrgqil2w-OoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622230474242-ilp7fgjs370fsb38195775gni8oktmpc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "622230474242-3sfqnig32bcmobgvvb972ct9esoorh17.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.panicButtonV2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
