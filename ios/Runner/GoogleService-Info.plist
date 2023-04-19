@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>37112852951-ftqi7b8pgu0ul8nb3olrb5qrtkf5c8v3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.37112852951-ftqi7b8pgu0ul8nb3olrb5qrtkf5c8v3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAOAdLPyvvXzWlNy6uv8OvzDKUCnZddZbs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>37112852951</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.panico1000</string>
+	<key>PROJECT_ID</key>
+	<string>panico1000-ef292</string>
+	<key>STORAGE_BUCKET</key>
+	<string>panico1000-ef292.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:37112852951:ios:f8b0c9cf05c6c83d12db92</string>
+	<key>DATABASE_URL</key>
+	<string>https://panico1000-ef292-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

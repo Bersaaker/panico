@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "549363637303",
+    "project_id": "proyecto2000-37b5c",
+    "storage_bucket": "proyecto2000-37b5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549363637303:android:8bcb391031ddaa806b73b2",
+        "android_client_info": {
+          "package_name": "com.example.panico1000"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549363637303-daj7ppcea2aj1hktmgk44nftuddk5crr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4wTnaYhCKg5wJHvpkCNsJmEe4b8WiOpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549363637303-daj7ppcea2aj1hktmgk44nftuddk5crr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "549363637303-sis65hq0p9qj6uq7p2668ggpc1io2jst.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.panico1000"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
